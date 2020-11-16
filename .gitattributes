@@ -1,0 +1,1 @@
+TF_BAG_WATCH_GLASS_SHOE_Resnet50.h5 filter=lfs diff=lfs merge=lfs -text
